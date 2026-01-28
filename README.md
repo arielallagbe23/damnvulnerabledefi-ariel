@@ -38,8 +38,6 @@ forge test test/withdrawal/Withdrawal.t.sol --match-test test_withdrawal
 
 ---
 
-## ✅ Résumé des tests (rendu)
-
 ## ✅ Résultat des tests
 
 ![Résultat des tests Foundry](assets/image3.png)
