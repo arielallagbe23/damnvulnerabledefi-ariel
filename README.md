@@ -40,6 +40,10 @@ forge test test/withdrawal/Withdrawal.t.sol --match-test test_withdrawal
 
 ## ✅ Résumé des tests (rendu)
 
+## ✅ Résultat des tests
+
+![Résultat des tests Foundry](assets/tests.png)
+
 **Commande utilisée :**
 ```bash
 forge test -vv
