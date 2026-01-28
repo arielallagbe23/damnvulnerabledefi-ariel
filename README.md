@@ -2,7 +2,7 @@
 
 **Damn Vulnerable DeFi** est un playground dédié à la sécurité des smart contracts Ethereum.
 
-Ce dépôt contient **mes solutions personnelles** pour la version **v4.1.0**, avec **l’ensemble des tests Foundry validés avec succès**.
+Ce dépôt contient **mes solutions, avec **l’ensemble des tests Foundry validés avec succès**.
 
 ---
 
