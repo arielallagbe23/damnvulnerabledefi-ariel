@@ -16,13 +16,10 @@ Ce dépôt contient **mes solutions** pour la version **v4.1.0**, avec tous les 
 
 ## Lancer les tests
 
-Test global :forge test -vv
+Test global : forge test -vv
 
 
-Test ciblé (exemple) :
-
-forge test test/withdrawal/Withdrawal.t.sol --match-test test_withdrawal
-
+Test ciblé (exemple) : forge test test/withdrawal/Withdrawal.t.sol --match-test test_withdrawal
 
 ---
 
