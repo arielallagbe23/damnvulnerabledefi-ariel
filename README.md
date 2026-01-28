@@ -1,8 +1,6 @@
 # damn-vulnerable-defi-ariel
 
-**Damn Vulnerable DeFi** est un playground dédié à la sécurité des smart contracts Ethereum.
-
-Ce dépôt contient **mes solutions, avec **l’ensemble des tests Foundry validés avec succès**.
+Ce dépôt contient les solutions, avec l’ensemble des tests Foundry validés avec succès**.
 
 ---
 
