@@ -77,11 +77,3 @@ forge test -vv
 
 - Les challenges utilisant un **fork mainnet** nécessitent impérativement un RPC valide dans le fichier `.env`.
 - Tous les tests ont été exécutés et validés **localement** avant rendu.
-
----
-
-## ⚠️ Disclaimer
-
-Ce dépôt contient du code **volontairement vulnérable**, utilisé uniquement à des **fins pédagogiques et de recherche en sécurité**.
-
-🚨 **Ne jamais utiliser ce code en production.**
